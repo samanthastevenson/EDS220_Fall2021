@@ -4,6 +4,9 @@ Welcome to EDS 220, Fall 2021! Here is the repository for all example course mat
 
 You are welcome to copy these materials, make your own changes, and even fork this repository if you like! If you find that the changes you made could be useful to others, please also feel free to submit pull requests so they can be incorporated into the course for future students.
 
+GETTING STARTED: make sure to check out these instructions for downloading/installing Anaconda, Jupyter, and the Google Earth Engine environment (and activating the GEE environment).
+https://docs.google.com/document/d/1P1c6Ef7D1OoGaTaOrPDO0m5LBN1okpGlU0OXKKzsoi0/edit
+
 ## Description of materials
 
 These notebooks provide an introduction to various environmental data sets, which should give you a good sense of the range of tools out there for manipulating and processing environmental data as well as the types of data sets that exist. 
