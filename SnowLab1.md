@@ -19,6 +19,9 @@ https://github.com/Timbo-Stillinger/Lab2-SWE-EnergyBalanceModel
 feel free to fork it if you want
 
 Alternativly, you can fire up the binder session directly through this link:  
-https://mybinder.org/v2/gh/Timbo-Stillinger/Lab2-SWE-EnergyBalanceModel/HEAD
+https://mybinder.org/v2/gh/Timbo-Stillinger/Lab2-SWE-EnergyBalanceModel/HEADx
+
+more information on mybinder (in case you want to use for future projects) is here:
+https://mybinder.org/
 
 ### Sam will send a Zoom link for the live lab session
