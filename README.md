@@ -20,3 +20,6 @@ The first exercise (Week1_ERA5Maps_GEE) provides an overview of how to install t
 
 ### Landsat_NDVI_GEE: Using GEE to Derive Indices from Multispectral Data
 We continue working in the GEE environment for a more complex example: loading in "multispectral" data (radiation sensed at multiple wavelengths) from the Landsat 8 mission. This example will show you where to find and how to load Landsat data, and use it to calculate a commonly used index for vegetation growth: the Normalized Difference Vegetation Index, or NDVI.
+
+
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/samanthastevenson/EDS220_Fall2021/main)
