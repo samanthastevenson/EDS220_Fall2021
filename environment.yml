@@ -8,3 +8,5 @@ dependencies:
   - xarray
   - cartopy
   - pandas
+  - geopandas
+  - openblas
