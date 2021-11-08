@@ -1,8 +1,26 @@
+<<<<<<< HEAD
+name: Week7-environment
+=======
 name: opendap_working
+>>>>>>> 82a62b7bccbc588d9c63c7d8e4f270f59ef0675d
 channels:
   - conda-forge
   - defaults
 dependencies:
+<<<<<<< HEAD
+  - python
+  - numpy
+  - matplotlib
+  - pandas
+  - geopandas
+  - contextily
+  - rasterio
+  - scipy
+  - cartopy
+  - xarray
+  - openblas=0.2.19
+
+=======
   - anyio=2.2.0=py37hecd8cb5_1
   - appnope=0.1.2=py37hecd8cb5_1001
   - argcomplete=1.12.3=pyhd3eb1b0_0
@@ -143,3 +161,4 @@ dependencies:
   - zlib=1.2.11=h9173be1_1013
   - zstd=1.5.0=h582d3a0_0
 prefix: /Users/samstevenson/opt/anaconda3/envs/opendap_working
+>>>>>>> 82a62b7bccbc588d9c63c7d8e4f270f59ef0675d
