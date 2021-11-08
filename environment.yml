@@ -1,0 +1,10 @@
+name: Week7_environment
+channels:
+  - conda-forge
+dependencies:
+  - python
+  - numpy
+  - matplotlib
+  - xarray
+  - cartopy
+  - pandas
