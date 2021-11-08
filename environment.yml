@@ -13,5 +13,7 @@ dependencies:
   - scipy
   - cartopy
   - xarray
-  - openblas=0.2.19
+  - openblas==0.2.19
+  - netcdf4==1.5.1
+
 
