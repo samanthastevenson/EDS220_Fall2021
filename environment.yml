@@ -1,12 +1,17 @@
-name: Week7_environment
+name: Week7-environment
 channels:
   - conda-forge
+  - defaults
 dependencies:
   - python
   - numpy
   - matplotlib
-  - xarray
-  - cartopy
   - pandas
   - geopandas
-  - openblas
+  - contextily
+  - rasterio
+  - scipy
+  - cartopy
+  - xarray
+  - openblas=0.2.19
+
