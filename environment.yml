@@ -4,7 +4,9 @@ channels:
   - defaults
 dependencies:
   - python
+  - scipy
   - numpy
+  - pickle
   - matplotlib
   - pandas
   - geopandas
