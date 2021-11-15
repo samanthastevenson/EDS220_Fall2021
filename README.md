@@ -24,4 +24,7 @@ We continue working in the GEE environment for a more complex example: loading i
 ### OISST_ENSO_MHWs: Using global gridded SST products to visualize El Nino/Southern Oscillation and marine heat wave behavior
 We switch to the ocean for an intensive lesson in evaluating metrics for ENSO and marine heat waves. This uses monthly data from NOAA's Extended Reconstructed SST version 5 (ERSSTv5) and daily data from the NOAA 1/4° Daily Optimum Interpolation Sea Surface Temperature version 2 (OISSTv2) datasets to calculate various things and plot them in time series and map format. This code can be run using the Binder link below!
 
+### Week8_EDS220_MultiDataset: Continuing with gridded SST products, combining with surface current information
+This notebook continues the MHW analysis in OISST_ENSO_MHWs, and combines SST information with additional data on surface currents from the NCEP Global Ocean Data Assimilation System (GODAS). The aim is to identify the most persistent MHW over the past 10 years, select SST and current data within that event, and generate a combined SST/current map using data interpolated to a common grid.
+
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/samanthastevenson/EDS220_Fall2021/main)  
